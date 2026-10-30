@@ -1,0 +1,6 @@
+{
+  "name": "ECE SIMULAB – Intelligent Electronics Simulation Platform",
+  "description": "Design Circuits. Simulate Reality. Understand Electronics. Interactive analog, digital, and embedded simulation workbench with virtual instruments and AI circuit assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
